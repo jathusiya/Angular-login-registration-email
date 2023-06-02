@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "email": "jathuseelan96@gmail.com",
+      "password": "Pjathu123#",
+      "gender": "2",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "user",
+      "email": "jathuseelan96@gmail.com",
+      "password": "Pjathu123#",
+      "gender": "2",
+      "role": "quality",
+      "isactive": true
+    },
+    {
+      "id": "adminuser",
+      "email": "jathuseelan96@gmail.com",
+      "password": "Pjathu123#",
+      "gender": "2",
+      "role": "staff",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "staff"
+    },
+    {
+      "code": "quality",
+      "name": "quality"
+    }
+  ]
+}
